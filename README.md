@@ -1,2 +1,3 @@
 # Switch
-Comp 301 Programming Assignment
+
+Fall 2016 - Comp 301 (Programming Language Concepts)
